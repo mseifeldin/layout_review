@@ -75,3 +75,8 @@ body,html {
   /*min-height: 150px;*/
   padding: 2%;
 }
+
+img.galleryitem{
+	width: 300px;
+
+}
