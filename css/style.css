@@ -1,9 +1,13 @@
 body {
-    font-family:Georgia, Arial;
+    font-family:Georgia;
 }
 
 h1 {
     font-size: 25px;
+    font-family: 'Special Elite', serif;
+  	font-size: 48px;
+  	text-shadow: 4px 4px 4px #aaa;
+}
 }
 h2 {
     font-size: 20px;
@@ -20,6 +24,11 @@ nav ul {
 .offpage {
     position: absolute;
     left: -1000px;
+}
+.offpage:focus { 
+	position: absolute;
+    left: 200px;
+    margin: 5px;
 }
 .flex-container {
   padding: 5px 5px 5px 5px;
@@ -80,3 +89,28 @@ img.galleryitem{
 	width: 300px;
 
 }
+body {
+ background-image: url("/images/graffiti_banner.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
