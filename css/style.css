@@ -48,7 +48,7 @@ header p{
 }
 .offpage:focus { 
 	position: absolute;
-    left: 200px;
+    left: 250px;
     margin: 5px;
     color: white;
 }
